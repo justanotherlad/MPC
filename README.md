@@ -4,6 +4,10 @@ A small repository to contain all the resources of MPC and DP used by me to deve
 
 * Secure Multiparty Computation (MPC) by Yehuda Lindell (cryptographic protocols / survey): [Paper](https://eprint.iacr.org/2020/300.pdf) |
                                                                                             [Video](https://youtu.be/Li2QJ8yImoY)
+
+* MP-SPDZ: A Versatile Framework for Multi-Party Computation by Marcel Keller : [Paper](https://eprint.iacr.org/2020/521.pdf)
+
+* SCALE-MAMBA Documentation & Guide : [link](https://homes.esat.kuleuven.be/~nsmart/SCALE/)
                                                                                             
 * Morten Dahl's blogs on MPC and SPDZ Protocol : [link](https://mortendahl.github.io/2017/09/10/the-spdz-protocol-part2/)
 
