@@ -16,4 +16,5 @@ A small repository to contain all the resources of MPC and DP used by me to deve
 * A Pragmatic Introduction to Secure Multi-Party Computation: [PDF](https://securecomputation.org/docs/pragmaticmpc.pdf)
 
 * IBM's Differential Privacy library `diffprivlib` : [installation guide](https://github.com/IBM/differential-privacy-library) | 
-                                                     [example notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks)
+                                                     [example notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks) | 
+                                                     [detailed documentation](https://diffprivlib.readthedocs.io/en/latest/)
