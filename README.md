@@ -24,4 +24,6 @@ A small repository to contain all the resources of MPC and DP used by me to deve
                                                      [Github](https://github.com/google/differential-privacy)
 
 * OpenMined's Python wrapper for Privacy on Beam `PyDP` : [Github](https://github.com/OpenMined/PyDP) | 
-                                                          [Slack](https://openmined.slack.com/join/shared_invite/zt-p8y1423n-SYC4uwI2yUHj4gSlHbslAw#/)
+                                                          [Slack](https://openmined.slack.com/join/shared_invite/zt-p8y1423n-SYC4uwI2yUHj4gSlHbslAw#/) |
+                                                          [excellent examples](https://github.com/OpenMined/PyDP/tree/dev/examples) | 
+                                                          [resources & tutorials](https://github.com/OpenMined/PyDP/blob/dev/resources.md)
