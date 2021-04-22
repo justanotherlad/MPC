@@ -1,5 +1,5 @@
 # MPC and DP
-A small repository to contain all the resources of MPC and DP used by me to develop background for IBM Research collab project. \
+A small repository to contain all the resources of Multi-Party Computation and Differential Privacy used by me to develop background for IBM Research collab project. \
 [Update] Note: This will not contain any of the research work in general; just all the literature-reading.
 
 ----------------------------------------------------------------------------------------------------------------------------------
