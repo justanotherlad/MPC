@@ -18,3 +18,6 @@ A small repository to contain all the resources of MPC and DP used by me to deve
 * IBM's Differential Privacy library `diffprivlib` : [installation guide](https://github.com/IBM/differential-privacy-library) | 
                                                      [example notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks) | 
                                                      [detailed documentation](https://diffprivlib.readthedocs.io/en/latest/)
+                                                     
+* * Google's Differential Privacy library `Privacy on Beam` : [documentation](https://opensource.googleblog.com/2020/06/expanding-our-differential-privacy.html) | 
+                                                     [codelab](https://codelabs.developers.google.com/codelabs/privacy-on-beam/#0)
