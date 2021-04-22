@@ -22,3 +22,6 @@ A small repository to contain all the resources of MPC and DP used by me to deve
 * Google's Differential Privacy library `Privacy on Beam` : [documentation](https://opensource.googleblog.com/2020/06/expanding-our-differential-privacy.html) | 
                                                      [codelab](https://codelabs.developers.google.com/codelabs/privacy-on-beam/#0) |
                                                      [Github](https://github.com/google/differential-privacy)
+
+* OpenMined's Python wrapper for Privacy on Beam `PyDP` : [Github](https://github.com/OpenMined/PyDP) | 
+                                                          [Slack](https://openmined.slack.com/join/shared_invite/zt-p8y1423n-SYC4uwI2yUHj4gSlHbslAw#/)
