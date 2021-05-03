@@ -34,3 +34,5 @@ A small repository to contain all the resources of Multi-Party Computation and D
 
 * k-anonymity : [Wikipedia](https://en.wikipedia.org/wiki/K-anonymity)
 
+* OpenDP's `SmartNoise SDK` : [GitHub](https://github.com/opendp/smartnoise-sdk)
+
