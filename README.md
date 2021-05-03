@@ -36,3 +36,6 @@ A small repository to contain all the resources of Multi-Party Computation and D
 
 * OpenDP's `SmartNoise SDK` : [GitHub](https://github.com/opendp/smartnoise-sdk)
 
+* Google's Differential Privacy library Algo's documentation (C++) : [Docu](https://github.com/google/differential-privacy/tree/main/cc/docs)
+
+
