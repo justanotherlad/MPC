@@ -32,5 +32,5 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                           
 * Facebook's high-speed library for training PyTorch models with differential privacy `Opacus` : [Tutorial](https://opacus.ai/tutorials/)
 
-* K-Anonimity : [Wikipedia](https://en.wikipedia.org/wiki/K-anonymity)
+* k-anonymity : [Wikipedia](https://en.wikipedia.org/wiki/K-anonymity)
 
