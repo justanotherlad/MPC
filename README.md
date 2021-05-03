@@ -29,3 +29,8 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                           [Slack](https://openmined.slack.com/join/shared_invite/zt-p8y1423n-SYC4uwI2yUHj4gSlHbslAw#/) |
                                                           [excellent examples](https://github.com/OpenMined/PyDP/tree/dev/examples) | 
                                                           [resources & tutorials](https://github.com/OpenMined/PyDP/blob/dev/resources.md)
+                                                          
+* Facebook's high-speed library for training PyTorch models with differential privacy `Opacus` : [Tutorial](https://opacus.ai/tutorials/)
+
+* K-Anonimity : [Wikipedia](https://en.wikipedia.org/wiki/K-anonymity)
+
