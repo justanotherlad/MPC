@@ -39,7 +39,7 @@ A small repository to contain all the resources of Multi-Party Computation and D
 * Google's Differential Privacy library Algo's documentation (C++) : [Docu](https://github.com/google/differential-privacy/tree/main/cc/docs)
 
 * TED's non-technical writing on Differential Privacy : [Link](https://desfontain.es/privacy/differential-privacy-awesomeness.html)
--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------
 ### 9<sup>th</sup> May - 15<sup>th</sup> May, 2021
 
 *  Frankmcsherry's Blog  : [Link](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md)
