@@ -4,6 +4,9 @@ A small repository to contain all the resources of Multi-Party Computation and D
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+
+### 11<sup>th</sup> April - 17<sup>th</sup> April, 2021
+
 * Secure Multiparty Computation (MPC) by Yehuda Lindell (cryptographic protocols / survey): [Paper](https://eprint.iacr.org/2020/300.pdf) |
                                                                                             [Video](https://youtu.be/Li2QJ8yImoY)
 
@@ -16,6 +19,9 @@ A small repository to contain all the resources of Multi-Party Computation and D
 * Bristol Cryptography Blog : [link](https://bristolcrypto.blogspot.com/2016/10/what-is-spdz-part-1-mpc-circuit.html)
 
 * A Pragmatic Introduction to Secure Multi-Party Computation: [PDF](https://securecomputation.org/docs/pragmaticmpc.pdf)
+
+
+### 18<sup>th</sup> April - 24<sup>th</sup> April, 2021
 
 * IBM's Differential Privacy library `diffprivlib` : [installation guide](https://github.com/IBM/differential-privacy-library) | 
                                                      [example notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks) | 
