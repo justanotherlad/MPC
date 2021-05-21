@@ -57,7 +57,7 @@ A small repository to contain all the resources of Multi-Party Computation and D
 
 ### 16<sup>th</sup> May - 22<sup>nd</sup> May, 2021
 
-*  Uber's Differential Privacy Framework in collaboration with UC Berkeley (based on **Elastic Sensitivity**) `PyDP`: [First Blog](https://medium.com/uber-security-privacy/differential-privacy-open-source-7892c82c42b6) | 
+*  Uber's Differential Privacy Framework (based on **Elastic Sensitivity**) `CHORUS`: [First Blog](https://medium.com/uber-security-privacy/differential-privacy-open-source-7892c82c42b6) | 
                                                           [Updated Blog (2<sup>nd</sup> release](https://medium.com/uber-security-privacy/uber-open-source-differential-privacy-57f31e85c57a) |
                                                           [Video presentation](https://www.usenix.org/conference/enigma2018/presentation/ensigns) | 
                                                           [Elastic Sensitivity paper](https://arxiv.org/pdf/1706.09479.pdf) | 
