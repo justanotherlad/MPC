@@ -79,3 +79,9 @@ A small repository to contain all the resources of Multi-Party Computation and D
 * Working mechanisms of different DP libaries : [Privacy on Beam](https://github.com/google/differential-privacy/blob/main/cc/docs/algorithms/bounded-sum.md) | 
                                                 [OpenDP](https://github.com/opendp/smartnoise-samples/blob/master/analysis/basic_data_analysis.ipynb)
 
+
+### 6<sup>th</sup> June - 12<sup>th</sup> June, 2021
+
+*  Distributed DP mechanisms into MPC protocols: [Paper 1](https://www.usenix.org/system/files/sec20-bohler.pdf) | 
+                                                 [Paper 2](http://elaineshi.com/docs/ndss2011.pdf) | 
+                                                 [Paper 3](https://www.researchgate.net/profile/Vibhor-Rastogi/publication/221213330_Differentially_private_aggregation_of_distributed_time-series_with_transformation_and_encryption/links/54f562f50cf2ba615065cdb1/Differentially-private-aggregation-of-distributed-time-series-with-transformation-and-encryption.pdf)
