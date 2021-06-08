@@ -85,3 +85,9 @@ A small repository to contain all the resources of Multi-Party Computation and D
 *  Distributed DP mechanisms into MPC protocols: [Paper 1](https://www.usenix.org/system/files/sec20-bohler.pdf) | 
                                                  [Paper 2](http://elaineshi.com/docs/ndss2011.pdf) | 
                                                  [Paper 3](https://www.researchgate.net/profile/Vibhor-Rastogi/publication/221213330_Differentially_private_aggregation_of_distributed_time-series_with_transformation_and_encryption/links/54f562f50cf2ba615065cdb1/Differentially-private-aggregation-of-distributed-time-series-with-transformation-and-encryption.pdf)
+                                                 
+*  Laplace mechanism for adding noise in ε-differential privacy: [Paper 1](https://privacytools.seas.harvard.edu/files/privacytools/files/the_algorithmic_foundations_of_differential_privacy_0.pdf) | 
+                                                 [Slides from Roger Grosse](https://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/slides/lec11-slides.pdf) | 
+                                                 [Lecture of Gautam Kamath](https://www.youtube.com/watch?v=IGQe9BN1TZs)
+                                                 [Truncated Laplacian mechanism used by IBM](https://arxiv.org/pdf/1810.00877v1.pdf)
+
