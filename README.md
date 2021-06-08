@@ -62,3 +62,20 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                           [Video presentation](https://www.usenix.org/conference/enigma2018/presentation/ensigns) | 
                                                           [Elastic Sensitivity paper](https://arxiv.org/pdf/1706.09479.pdf) | 
                                                           [GitHub](https://github.com/uber-archive/sql-differential-privacy)
+                                                          
+                                                          
+### 30<sup>th</sup> May - 5<sup>th</sup> June, 2021
+
+*  Hierarchial Time Series: [Tutorials](https://medium.com/opex-analytics/hierarchical-time-series-101-734a3da15426)
+
+*  Vector autoregression : [Wikipedia](https://en.wikipedia.org/wiki/Vector_autoregression) | 
+                           [Tutorials](https://otexts.com/fpp2/VAR.html) | 
+                           [PennState Docu](https://online.stat.psu.edu/stat510/lesson/11/11.2)
+
+* ARIMA model (Autoregressive Integrated moving averages : [Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) | 
+                                                           [Tutorials](https://otexts.com/fpp2/non-seasonal-arima.html)
+                                                           
+
+* Working mechanisms of different DP libaries : [Privacy on Beam](https://github.com/google/differential-privacy/blob/main/cc/docs/algorithms/bounded-sum.md) | 
+                                                [OpenDP](https://github.com/opendp/smartnoise-samples/blob/master/analysis/basic_data_analysis.ipynb)
+
