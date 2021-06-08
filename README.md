@@ -88,6 +88,6 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                  
 *  Laplace mechanism for adding noise in ε-differential privacy: [Paper 1](https://privacytools.seas.harvard.edu/files/privacytools/files/the_algorithmic_foundations_of_differential_privacy_0.pdf) | 
                                                  [Slides from Roger Grosse](https://www.cs.toronto.edu/~rgrosse/courses/csc2515_2019/slides/lec11-slides.pdf) | 
-                                                 [Lecture of Gautam Kamath](https://www.youtube.com/watch?v=IGQe9BN1TZs)
+                                                 [Lecture of Gautam Kamath](https://www.youtube.com/watch?v=IGQe9BN1TZs) | 
                                                  [Truncated Laplacian mechanism used by IBM](https://arxiv.org/pdf/1810.00877v1.pdf)
 
