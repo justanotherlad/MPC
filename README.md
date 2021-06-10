@@ -91,3 +91,4 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                  [Lecture of Gautam Kamath](https://www.youtube.com/watch?v=IGQe9BN1TZs) | 
                                                  [Truncated Laplacian mechanism used by IBM](https://arxiv.org/pdf/1810.00877v1.pdf)
 
+*  Geometric mechanism used in IBM diffprivlib: [Paper](https://arxiv.org/pdf/0811.2841.pdf)
