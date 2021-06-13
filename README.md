@@ -91,7 +91,7 @@ A small repository to contain all the resources of Multi-Party Computation and D
                                                  [Lecture of Gautam Kamath](https://www.youtube.com/watch?v=IGQe9BN1TZs) | 
                                                  [Truncated Laplacian mechanism used by IBM](https://arxiv.org/pdf/1810.00877v1.pdf)
 
-*  Geometric mechanism used in IBM diffprivlib: [Paper](https://arxiv.org/pdf/0811.2841.pdf)
+*  Geometric mechanism used in `IBM diffprivlib`: [Paper](https://arxiv.org/pdf/0811.2841.pdf)
 
 *  DLPA (Distributed Laplace Perturbation Algorithm) for optimally adding noise to attain Differential Privacy in a distributed manner when N users are participating in a computation: [Paper](https://www.researchgate.net/profile/Vibhor-Rastogi/publication/221213330_Differentially_private_aggregation_of_distributed_time-series_with_transformation_and_encryption/links/54f562f50cf2ba615065cdb1/Differentially-private-aggregation-of-distributed-time-series-with-transformation-and-encryption.pdf)
 
