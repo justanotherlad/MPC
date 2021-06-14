@@ -95,3 +95,6 @@ A small repository to contain all the resources of Multi-Party Computation and D
 
 *  DLPA (Distributed Laplace Perturbation Algorithm) for optimally adding noise to attain Differential Privacy in a distributed manner when N users are participating in a computation: [Paper (Rastogi and Nath)](https://www.researchgate.net/profile/Vibhor-Rastogi/publication/221213330_Differentially_private_aggregation_of_distributed_time-series_with_transformation_and_encryption/links/54f562f50cf2ba615065cdb1/Differentially-private-aggregation-of-distributed-time-series-with-transformation-and-encryption.pdf)
 
+*  The parameters used in `IBM diffprivlib`for calculating differentially private sum/mean: [Reference Pg 41,44](https://diffprivlib.readthedocs.io/_/downloads/en/latest/pdf/)
+
+
