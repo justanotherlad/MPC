@@ -98,3 +98,11 @@ A small repository to contain all the resources of Multi-Party Computation and D
 *  The parameters used in `IBM diffprivlib`for calculating differentially private sum/mean: [Reference Pg 41,44](https://diffprivlib.readthedocs.io/_/downloads/en/latest/pdf/)
 
 
+### 13<sup>th</sup> June - 19<sup>th</sup> June, 2021
+
+*  How to sample noise from Gaussian Distribution? : [3 standard .py libs](https://fanbuduke17.github.io/2020-08-27-How-to-Sample-from-Distributions-in-Python/) |
+                                                     [numpy.random Docu](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html)
+
+* MP-SPDZ for Secure MPC : [Github](https://github.com/data61/MP-SPDZ) | 
+                           [tutorial.mpc](https://github.com/data61/MP-SPDZ/blob/master/Programs/Source/tutorial.mpc) | 
+                           [mp-spdz documentation](https://mp-spdz.readthedocs.io/en/latest/Compiler.html#module-Compiler.types)
