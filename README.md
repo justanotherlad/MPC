@@ -106,3 +106,11 @@ A small repository to contain all the resources of Multi-Party Computation and D
 * MP-SPDZ for Secure MPC : [Github](https://github.com/data61/MP-SPDZ) | 
                            [tutorial.mpc](https://github.com/data61/MP-SPDZ/blob/master/Programs/Source/tutorial.mpc) | 
                            [mp-spdz documentation](https://mp-spdz.readthedocs.io/en/latest/Compiler.html#module-Compiler.types)
+                           
+                          
+### 20<sup>th</sup> June - 03<sup>rd</sup> July, 2021
+
+*  Different Functions(sum, mean, count, var, sd, quantiles) : [diffprivlib utils.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/utils.py) |
+                                                     [quantiles.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/quantiles.py)
+
+* Meaning of Epsilon(ε) and Delta(δ) in (ε, δ)-differential privacy : [Ref](https://medium.com/@shaistha24/differential-privacy-definition-bbd638106242)
