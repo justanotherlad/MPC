@@ -110,7 +110,7 @@ A small repository to contain all the resources of Multi-Party Computation and D
                           
 ### 20<sup>th</sup> June - 03<sup>rd</sup> July, 2021
 
-*  Different Functions(sum, mean, count, var, sd, quantiles) : [diffprivlib utils.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/utils.py) |
-                                                     [quantiles.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/quantiles.py)
+*  Different Functions(sum, mean, count, var, sd, quantiles) : [IBM diffprivlib utils.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/utils.py) |
+                                                     [IBM diffprivlib quantiles.py](https://github.com/IBM/differential-privacy-library/blob/4d48efb6d6086c57d1b813b76b2755c87735d5d8/diffprivlib/tools/quantiles.py)
 
 * Meaning of Epsilon(ε) and Delta(δ) in (ε, δ)-differential privacy : [Ref](https://medium.com/@shaistha24/differential-privacy-definition-bbd638106242)
